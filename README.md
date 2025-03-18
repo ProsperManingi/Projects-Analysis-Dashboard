@@ -1,5 +1,16 @@
 # Projects-Analysis-Dashboard
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Preparation](#data-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#results/findings)
+- [Recommendations](#recommendations)
+
 ### Project Overview
 
 Thsi projects aims to help the company mange it's worksforce, understand the financial risks and monitor project health more effectively.
